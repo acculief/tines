@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://acculief.github.io/tines/sitemap.xml
